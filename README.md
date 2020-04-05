@@ -26,6 +26,6 @@ Here are the three APIs I found.  To get a good understanding of how to use this
 1. [IPinfo](https://ipinfo.io) - Account required Free usage of the API is limited to 50,000 API requests per month.
 
 # Usage
-  When deployed as coded here will show up a the endpoint **"https://<your-function-name>.azurewebsites.net/api/locationybyip"** it currently only respond to GET requests, but feel free to fork and edit.  
+  When deployed as coded here will show up a the endpoint **"https://<your-function-name>.azurewebsites.net/api/locationbyip"** it currently only respond to GET requests, but feel free to fork and edit.  
   
   The function returns the object acquired from the API as JSON back to the caller.
